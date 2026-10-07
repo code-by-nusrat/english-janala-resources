@@ -120,11 +120,10 @@ The project will then open in your browser.
 
 ## 🔗 Live Project
 
-🚀 **[Visit English Janala Resources](YOUR_LIVE_LINK_HERE)**
-
+https://code-by-nusrat.github.io/english-janala-resources/
 ## 💻 GitHub Repository
 
-📂 **[View Source Code](https://github.com/code-by-nusrat/english-janala-resources)**
+https://github.com/code-by-nusrat/english-janala-resources
 
 ## 🎯 Future Improvements
 
